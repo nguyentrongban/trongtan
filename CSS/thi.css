@@ -1,0 +1,104 @@
+body{
+    margin: auto;
+}
+.image img{
+    margin-left: 8%;
+}
+.baner{
+    background-color: blue;
+    
+}
+ul{
+    background-color: rgb(15, 19, 238);
+    
+    border-bottom-left-radius:0%;
+    
+    height: 50px;
+    padding: 0;
+    margin: 20px;
+    text-align: left;
+    position: sticky;
+    top: 2px;
+    text-align: center;
+
+
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+ul li a{
+    line-height: 50px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 50px;
+    word-spacing: 5px;
+    font-weight: bold;
+}
+.chu a:hover{
+    color: yellow;
+}
+
+li.sub{
+    display: inline-block;
+}
+
+.sub-menu{
+    display: none;
+    position: absolute;
+    background-color: rgb(253, 253, 253);
+    
+    z-index: 1;
+    min-width: 160px;
+
+}
+.sub-menu a{
+    color: rgb(8, 8, 8);
+    padding: 12px 16px;
+    display: block;
+    text-align: left;
+}
+.sub-menu a:hover 
+{
+    color: red;
+    background-color: rgb(235, 226, 210);
+}
+.sub:hover .sub-menu{
+    display: block;
+}
+.tong{
+width: 600px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-top: 50px;
+    
+    
+}
+
+.hoten input{
+    width: 500px;
+    height: 30px;
+    
+}
+.tieude{
+    margin-left: 50px;
+    color: red;
+    font-weight: bold;
+}
+.noidung{
+    margin-left: 50px;
+    font-weight: bold;
+
+}
+.button{
+    background-color: red;
+    color: aliceblue;
+    box-shadow: 1px red;
+}
+.tong1{
+    
+}

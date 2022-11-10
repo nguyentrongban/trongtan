@@ -1,0 +1,147 @@
+.body{
+    
+}
+.bia{
+    background-color: white ;
+    position: relative;
+    height: 2000px;;
+    min-height: calc(100vh - 300px);
+   
+}
+ul{
+    background-color: coral;
+    border: 2px solid rgb(197, 207, 46);
+    border-bottom-left-radius:0%;
+    box-shadow: 0 0 10px rgb(243, 231, 221);
+    height: 50px;
+    padding: 0;
+    margin: 20px;
+    text-align: left;
+    position: sticky;
+    top: 2px;
+    text-align: left;
+
+
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+ul li a{
+    line-height: 50px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 50px;
+    word-spacing: 5px;
+}
+
+.baner{
+    background-color: white;
+    height: 100px;
+}
+
+.image{
+    width: 80px;
+    height: 100px;
+    margin: auto;
+    margin-top: 0%;
+    margin-left: 45%;
+    
+    
+    
+}
+.image img{
+    width: 200%;
+    height: 100%;
+    object-fit:cover;
+    
+}
+.maugiay{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkcyan;
+    margin-top: 7%;
+
+}
+
+
+
+
+.tong2{
+    border:2px solid rgb(210, 231, 21);
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    padding:1px ;
+    margin-left: 2.5%;
+    margin-right: 2%;
+    margin-top: 3%;
+    float: left;
+    
+
+}
+.giay2{
+    color: blue;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+
+}
+.imagee2{
+    width: 325px;
+    height: 160px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.imagee2 img{
+    width: 89%;
+    height: 100%;
+    object-fit: cover;
+    margin-right: 25px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+}
+.gia2{
+    font-size: 20px;
+    color: red;
+}
+
+.het{
+    background-color: rgb(252, 247, 247);
+    height: 328px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+    color:white;
+    font-size: 20px;
+}
+
+
+.b{
+    color: rgb(255, 217, 0);
+}
+.a{
+    color: rgb(71, 145, 243);
+    text-align: left;
+    
+}
+.c{
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: right;
+    margin-right: 50px;
+    margin-top: -80px;
+}
+
+
